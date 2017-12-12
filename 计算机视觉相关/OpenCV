@@ -1,0 +1,1 @@
+equalizeHist(frameGray,frameGray)均匀直方图为了补偿亮度、饱和度等问题。
